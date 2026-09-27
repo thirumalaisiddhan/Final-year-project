@@ -1,0 +1,13 @@
+HTTP/1.1 404 Not Found
+Date: Sun, 27 Sep 2026 11:44:26 GMT
+Content-Type: text/html
+Connection: keep-alive
+CF-Ray: a41a41a3bd108826-MAA
+CF-Cache-Status: EXPIRED
+Last-Modified: Sat, 11 Oct 2025 00:20:51 GMT
+x-amz-error-code: NoSuchKey
+x-amz-error-detail-Key: maven2/org/gradle/gradle-tooling-api/8.10.2/gradle-tooling-api-8.10.2.jar
+x-amz-error-message: The specified key does not exist.
+Server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

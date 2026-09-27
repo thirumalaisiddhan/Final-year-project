@@ -1,0 +1,59 @@
+com.callguard.ai.app-annotation-experimental-1.4.1-0 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\0f06275db25ef1fb9aa53d126ddbb333\transformed\annotation-experimental-1.4.1\res
+com.callguard.ai.app-ui-tooling-preview-release-1 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\1438076ec246046273883ab36582b887\transformed\ui-tooling-preview-release\res
+com.callguard.ai.app-savedstate-ktx-1.2.1-2 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\14a0f9ebbd1e346c1396aa8f7b9d9512\transformed\savedstate-ktx-1.2.1\res
+com.callguard.ai.app-lifecycle-runtime-ktx-release-3 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\185b86524645e41c05cf0a4ab94f4798\transformed\lifecycle-runtime-ktx-release\res
+com.callguard.ai.app-foundation-release-4 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\23080dd973cd6b6c7478b377ab5470db\transformed\foundation-release\res
+com.callguard.ai.app-core-ktx-1.15.0-5 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\294c9191fbdaeb3b0117e99528719790\transformed\core-ktx-1.15.0\res
+com.callguard.ai.app-activity-1.9.3-6 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\2c34f9688ed6fc188a80899fe07a89ec\transformed\activity-1.9.3\res
+com.callguard.ai.app-foundation-layout-release-7 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\31a4e370ff8f7ee3bcb94fb43eb046b7\transformed\foundation-layout-release\res
+com.callguard.ai.app-material3-release-8 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\349de2b7a381f3c2a9a7c615849d2e92\transformed\material3-release\res
+com.callguard.ai.app-runtime-saveable-release-9 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\367489c817554e90cde4470e657d3cbd\transformed\runtime-saveable-release\res
+com.callguard.ai.app-room-ktx-2.6.1-10 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\393456ac6b1ff5da43be45543cb7fced\transformed\room-ktx-2.6.1\res
+com.callguard.ai.app-sqlite-2.4.0-11 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\3dafdc0626c67f1f7ea13546e12da9ed\transformed\sqlite-2.4.0\res
+com.callguard.ai.app-animation-release-12 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\4005db91d48a498f17a2164a500d9b4a\transformed\animation-release\res
+com.callguard.ai.app-navigation-runtime-2.8.3-13 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\4f380359931437605d3957d63cafa741\transformed\navigation-runtime-2.8.3\res
+com.callguard.ai.app-lifecycle-runtime-release-14 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\51fea3f784f0084b5c4ca05647d2a6b1\transformed\lifecycle-runtime-release\res
+com.callguard.ai.app-runtime-release-15 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\5775f3104062232ff22e038bec4f0620\transformed\runtime-release\res
+com.callguard.ai.app-navigation-runtime-ktx-2.8.3-16 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\5d38442abce29fa284b091b215dcb8a5\transformed\navigation-runtime-ktx-2.8.3\res
+com.callguard.ai.app-core-1.15.0-17 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\64b86b89e8a059a23f7f62a9ee867870\transformed\core-1.15.0\res
+com.callguard.ai.app-core-runtime-2.2.0-18 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\692c9e674169c7a1f485d562a80e883c\transformed\core-runtime-2.2.0\res
+com.callguard.ai.app-lifecycle-livedata-core-2.8.7-19 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\6b6c32627a69391b5cb076c07d88fbbf\transformed\lifecycle-livedata-core-2.8.7\res
+com.callguard.ai.app-ui-unit-release-20 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\6c42db9a67f380889c6759c996a6494a\transformed\ui-unit-release\res
+com.callguard.ai.app-material-icons-core-release-21 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\701b06ef8538083c6951e0f4a7bd9561\transformed\material-icons-core-release\res
+com.callguard.ai.app-lifecycle-viewmodel-compose-release-22 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\7173500e07cda8fe479750fdd4decd77\transformed\lifecycle-viewmodel-compose-release\res
+com.callguard.ai.app-profileinstaller-1.3.1-23 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\726e66f38b6899c29aa7383819b3e84f\transformed\profileinstaller-1.3.1\res
+com.callguard.ai.app-navigation-compose-2.8.3-24 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\76705ced49d46a90706d08bce35cf993\transformed\navigation-compose-2.8.3\res
+com.callguard.ai.app-material-release-25 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\7879449fee93853e6a7096ede554fad2\transformed\material-release\res
+com.callguard.ai.app-navigation-common-ktx-2.8.3-26 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\7ab721d64a2ac9df57efb1e34f2148a9\transformed\navigation-common-ktx-2.8.3\res
+com.callguard.ai.app-material-icons-extended-release-27 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\80ec647a28638b9b91c56c68124e57c5\transformed\material-icons-extended-release\res
+com.callguard.ai.app-graphics-path-1.0.1-28 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\81a98333c0cd4cf12f2584c26f44e3c6\transformed\graphics-path-1.0.1\res
+com.callguard.ai.app-activity-ktx-1.9.3-29 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\869d8db8c124b061455bd12d66d1d888\transformed\activity-ktx-1.9.3\res
+com.callguard.ai.app-lifecycle-viewmodel-savedstate-2.8.7-30 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\89a9637ae75c72059698556a555d6c7e\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.callguard.ai.app-lifecycle-viewmodel-ktx-2.8.7-31 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\8a55728f29dbd324fa9ad6e26691905a\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.callguard.ai.app-savedstate-1.2.1-32 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\9005e50071f04bdf2fa7c6fde53b5336\transformed\savedstate-1.2.1\res
+com.callguard.ai.app-startup-runtime-1.1.1-33 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\9280fb410a0a9f0c47f0101faeaf1658\transformed\startup-runtime-1.1.1\res
+com.callguard.ai.app-activity-compose-1.9.3-34 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\95a68ea6b7817807603bd828534766a6\transformed\activity-compose-1.9.3\res
+com.callguard.ai.app-ui-geometry-release-35 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\97bcea08e26efcb374f2872c23c0cb85\transformed\ui-geometry-release\res
+com.callguard.ai.app-ui-util-release-36 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\9c779c4b82b0309564c14c4a5620290a\transformed\ui-util-release\res
+com.callguard.ai.app-sqlite-framework-2.4.0-37 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\a17de3c3ef39805cc15f82d593e0d606\transformed\sqlite-framework-2.4.0\res
+com.callguard.ai.app-lifecycle-process-2.8.7-38 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\a210c942ebbfe0372a95689415e89f6d\transformed\lifecycle-process-2.8.7\res
+com.callguard.ai.app-room-runtime-2.6.1-39 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\a87737d290166be77ebcf7c767dd795b\transformed\room-runtime-2.6.1\res
+com.callguard.ai.app-customview-poolingcontainer-1.0.0-40 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\afc61ff3921103e53eaa2c99c9f41ed5\transformed\customview-poolingcontainer-1.0.0\res
+com.callguard.ai.app-ui-release-41 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\b0103290ced527814c0881cc6529e1c5\transformed\ui-release\res
+com.callguard.ai.app-tracing-1.2.0-42 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\b0d1c61dacf21fd490e00b00a35eebb1\transformed\tracing-1.2.0\res
+com.callguard.ai.app-ui-tooling-release-43 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\b119cde2c361e091472ff0adf4ef422c\transformed\ui-tooling-release\res
+com.callguard.ai.app-lifecycle-runtime-compose-release-44 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\b5a6dc2cca408cb4fcb4fd3b3b1cd691\transformed\lifecycle-runtime-compose-release\res
+com.callguard.ai.app-animation-core-release-45 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\badb3f17184fac721c43f72a8bd0ffe5\transformed\animation-core-release\res
+com.callguard.ai.app-ui-graphics-release-46 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\c54599f817dc5d9b5b7d984e3123387a\transformed\ui-graphics-release\res
+com.callguard.ai.app-emoji2-1.3.0-47 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\cc8bcb59ddbcbf6988ec934a7f094c4e\transformed\emoji2-1.3.0\res
+com.callguard.ai.app-navigation-common-2.8.3-48 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\d037cc8e0163c0e163d578ebc0085bbd\transformed\navigation-common-2.8.3\res
+com.callguard.ai.app-lifecycle-viewmodel-release-49 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\d6c29ce044fe4a9f85e343a526b44be9\transformed\lifecycle-viewmodel-release\res
+com.callguard.ai.app-ui-text-release-50 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\e1dd5a308d9dc76927755c4080681b4c\transformed\ui-text-release\res
+com.callguard.ai.app-ui-tooling-data-release-51 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\e401fbc0fd8859be189fe77d56a1b9e7\transformed\ui-tooling-data-release\res
+com.callguard.ai.app-material-ripple-release-52 C:\Users\SIDDHAN\.gradle\caches\8.11.1\transforms\e8c9315af97218a223fa69a9798812c3\transformed\material-ripple-release\res
+com.callguard.ai.app-resValues-53 D:\Final year project\app\build\generated\res\resValues\debug
+com.callguard.ai.app-packageDebugResources-54 D:\Final year project\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.callguard.ai.app-packageDebugResources-55 D:\Final year project\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.callguard.ai.app-debug-56 D:\Final year project\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.callguard.ai.app-debug-57 D:\Final year project\app\src\debug\res
+com.callguard.ai.app-main-58 D:\Final year project\app\src\main\res

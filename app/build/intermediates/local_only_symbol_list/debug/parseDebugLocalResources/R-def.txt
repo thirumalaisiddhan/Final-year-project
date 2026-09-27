@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color primary
+color primary_dark
+color risk_high
+color risk_low
+color risk_medium
+color surface_card
+color surface_dark
+color text_primary
+color text_secondary
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string app_tagline
+style Theme.CallGuardAI
+xml backup_rules
+xml data_extraction_rules
